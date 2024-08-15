@@ -1,4 +1,74 @@
 Investigacion sobre:
-¿Qué es el desarrollo de software?
-Fases del ciclo de vida del desarrollo de software (SDLC): Análisis de requisitos, diseño, implementación, pruebas, despliegue, mantenimiento.
-Herramientas y lenguajes de programación comunes (por ejemplo, Python, Java, C#, PHP, etc.).
+1. ¿Qué es el Desarrollo de Software?
+Descripción:
+El desarrollo de software es el proceso de crear y mantener aplicaciones, marcos y otras soluciones de software. Este proceso incluye varias actividades como el diseño, la codificación, las pruebas y el mantenimiento de programas informáticos que cumplen con necesidades específicas o resuelven problemas particulares. El objetivo principal es transformar las ideas en aplicaciones funcionales y eficientes que los usuarios puedan utilizar para realizar tareas o resolver problemas.
+Aspectos Clave:
+Objetivo: Crear software que sea funcional, fiable y que cumpla con los requisitos del usuario.
+Proceso: Incluye desde la recopilación de requisitos hasta el mantenimiento y soporte post-lanzamiento.
+Importancia: Asegura que el software sea efectivo, seguro y adaptado a las necesidades del usuario final.
+2. Fases del Ciclo de Vida del Desarrollo de Software (SDLC)
+Descripción:
+El ciclo de vida del desarrollo de software (SDLC) es un modelo que describe las etapas a seguir en el desarrollo de software para garantizar un resultado final de calidad. Cada fase tiene objetivos específicos y produce entregables que son cruciales para el éxito del proyecto.
+Fases
+Análisis de Requisitos
+Objetivo: Identificar y documentar lo que el software debe hacer.
+Actividades: Reuniones con clientes y usuarios, recopilación de requisitos, creación de documentación detallada.
+Entregables: Documento de requisitos.
+
+Diseño
+Objetivo: Definir la estructura del software y la interfaz de usuario.
+Actividades: Creación de diagramas de arquitectura, maquetas de interfaz, diseño de base de datos.
+Entregables: Documentos de diseño, diagramas de flujo.
+
+Implementación
+Objetivo: Convertir los diseños en código funcional.
+Actividades: Programación, integración de módulos, desarrollo de la interfaz de usuario.
+Entregables: Código fuente, versiones del software.
+
+Pruebas:
+Objetivo: Verificar que el software funcione según lo esperado y corregir errores.
+Actividades: Ejecución de pruebas unitarias, pruebas de integración, pruebas de aceptación.
+Entregables: Resultados de pruebas, informes de errores.
+
+Despliegue
+Objetivo: Hacer que el software esté disponible para los usuarios finales.
+Actividades: Instalación, configuración del entorno de producción, capacitación de usuarios.
+Entregables: Software en producción, manuales de usuario.
+
+Mantenimiento:
+Objetivo: Resolver problemas, actualizar y mejorar el software después del despliegue.
+Actividades: Corrección de errores, implementación de nuevas características, actualizaciones de seguridad.
+Entregables: Parches, actualizaciones, nuevas versiones del software.
+3. Herramientas y Lenguajes de Programación Comunes
+Descripción:
+Existen diversas herramientas y lenguajes de programación que los desarrolladores utilizan para crear software. Cada herramienta y lenguaje tiene características específicas que lo hacen adecuado para diferentes tipos de proyectos.
+
+Lenguajes de Programación Comunes
+Python:
+Uso: Ideal para scripting, desarrollo web, análisis de datos, inteligencia artificial.
+Ventajas: Sintaxis clara y sencilla, gran cantidad de bibliotecas y soporte de comunidad.
+
+Java:
+Uso: Aplicaciones empresariales, aplicaciones móviles (Android), desarrollo web.
+Ventajas: Portabilidad, robustez, soporte de una gran cantidad de herramientas y frameworks.
+
+C#:
+Uso: Desarrollo en plataformas Microsoft, aplicaciones de escritorio, juegos (con Unity).
+Ventajas: Integración con el ecosistema Microsoft, robustez y soporte para desarrollo de aplicaciones empresariales.
+
+PHP:
+Uso: Desarrollo web del lado del servidor, gestión de contenido web (WordPress, Joomla).
+Ventajas: Facilidad para integrarse con bases de datos, amplio soporte en servidores web.
+
+Herramientas Comunes:
+IDE (Entornos de Desarrollo Integrados):
+
+Ejemplos: Visual Studio Code, PyCharm, Eclipse.
+Ventajas: Facilitan la escritura y depuración del código, integración con sistemas de control de versiones.
+
+Sistemas de Control de Versiones:
+Ejemplos: Git, Subversion (SVN).
+Ventajas: Gestión de versiones del código, colaboración en equipos de desarrollo.
+Herramientas de Gestión de Proyectos:
+Ejemplos: Jira, Trello.
+Ventajas: Ayudan a planificar y seguir el progreso del proyecto, asignar tareas y gestionar tiempos.
